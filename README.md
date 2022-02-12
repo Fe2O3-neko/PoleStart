@@ -1,0 +1,2 @@
+# PoleStart
+novels, idea, anything
