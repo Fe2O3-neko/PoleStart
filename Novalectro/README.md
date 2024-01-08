@@ -6,8 +6,8 @@
 
 ## 設定
 
--> [setting](../Old-CP-temp/setting.md)
+-> [setting](../Novalectro/setting.md)
 
 ## 本編
 
--> [一章](../Old-CP-temp/main01.md)
+-> [一章](../Novalectro/main01.md)
